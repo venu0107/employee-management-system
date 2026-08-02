@@ -1,0 +1,29 @@
+[
+  {
+    "id": "USE_1785662193873_546",
+    "createdAt": "2026-08-02T09:16:33.873Z",
+    "updatedAt": "2026-08-02T09:16:33.874Z",
+    "email": "admin@company.com",
+    "password": "$2a$10$PWapeh0AUefxzKMW.uqBnueKW7VjfdS0CYHF4mjCuddpnsSstxGC6",
+    "role": "Admin",
+    "name": "Sarah Jenkins"
+  },
+  {
+    "id": "USE_1785662193876_24",
+    "createdAt": "2026-08-02T09:16:33.876Z",
+    "updatedAt": "2026-08-02T09:16:33.877Z",
+    "email": "hr@company.com",
+    "password": "$2a$10$PWapeh0AUefxzKMW.uqBnueKW7VjfdS0CYHF4mjCuddpnsSstxGC6",
+    "role": "HR",
+    "name": "Michael Scott"
+  },
+  {
+    "id": "USE_1785662193878_563",
+    "createdAt": "2026-08-02T09:16:33.878Z",
+    "updatedAt": "2026-08-02T09:16:33.878Z",
+    "email": "employee@company.com",
+    "password": "$2a$10$PWapeh0AUefxzKMW.uqBnueKW7VjfdS0CYHF4mjCuddpnsSstxGC6",
+    "role": "Employee",
+    "name": "John Doe"
+  }
+]

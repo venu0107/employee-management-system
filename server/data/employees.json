@@ -1,0 +1,47 @@
+[
+  {
+    "id": "EMP_1785662193882_578",
+    "createdAt": "2026-08-02T09:16:33.882Z",
+    "updatedAt": "2026-08-02T09:16:33.882Z",
+    "userId": "USE_1785662193873_546",
+    "employeeId": "EMP001",
+    "name": "Sarah Jenkins",
+    "email": "admin@company.com",
+    "phone": "+1 (555) 019-2834",
+    "department": "IT",
+    "designation": "IT Director / Systems Admin",
+    "salary": 110000,
+    "joiningDate": "2022-01-15",
+    "status": "Active"
+  },
+  {
+    "id": "EMP_1785662193883_78",
+    "createdAt": "2026-08-02T09:16:33.883Z",
+    "updatedAt": "2026-08-02T09:16:33.883Z",
+    "userId": "USE_1785662193876_24",
+    "employeeId": "EMP002",
+    "name": "Michael Scott",
+    "email": "hr@company.com",
+    "phone": "+1 (555) 014-9821",
+    "department": "Human Resources",
+    "designation": "HR Manager",
+    "salary": 75000,
+    "joiningDate": "2023-04-10",
+    "status": "Active"
+  },
+  {
+    "id": "EMP_1785662193884_721",
+    "createdAt": "2026-08-02T09:16:33.884Z",
+    "updatedAt": "2026-08-02T09:16:33.884Z",
+    "userId": "USE_1785662193878_563",
+    "employeeId": "EMP003",
+    "name": "John Doe",
+    "email": "employee@company.com",
+    "phone": "+1 (555) 017-3829",
+    "department": "IT",
+    "designation": "Software Engineer",
+    "salary": 85000,
+    "joiningDate": "2024-06-01",
+    "status": "Active"
+  }
+]

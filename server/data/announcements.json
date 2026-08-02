@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ANN_1785662193885_741",
+    "createdAt": "2026-08-02T09:16:33.885Z",
+    "updatedAt": "2026-08-02T09:16:33.885Z",
+    "title": "Welcome to the New EMS Portal!",
+    "content": "We are thrilled to launch our new Employee Management System. You can now clock in/out, check leave balances, view performance goals, and download payslips directly from here.",
+    "author": "Sarah Jenkins",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "ANN_1785662193886_165",
+    "createdAt": "2026-08-02T09:16:33.886Z",
+    "updatedAt": "2026-08-02T09:16:33.886Z",
+    "title": "Quarterly Review Cycle",
+    "content": "All departments are requested to complete employee self-reviews by the end of the month. HR will schedule performance review alignment meetings shortly.",
+    "author": "Michael Scott",
+    "date": "2026-08-02"
+  }
+]

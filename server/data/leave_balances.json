@@ -73,5 +73,55 @@
         "used": 0
       }
     }
+  },
+  {
+    "id": "LEA_1786099656205_929",
+    "createdAt": "2026-08-07T10:47:36.205Z",
+    "updatedAt": "2026-08-07T10:47:36.205Z",
+    "userId": "USE_1786099656192_708",
+    "employeeId": "EMP696",
+    "balances": {
+      "Casual Leave": {
+        "allowed": 12,
+        "used": 0
+      },
+      "Sick Leave": {
+        "allowed": 10,
+        "used": 0
+      },
+      "Paid Leave": {
+        "allowed": 15,
+        "used": 0
+      },
+      "Unpaid Leave": {
+        "allowed": 30,
+        "used": 0
+      }
+    }
+  },
+  {
+    "id": "LEA_1786099656205_dwight",
+    "createdAt": "2026-08-07T10:47:36.205Z",
+    "updatedAt": "2026-08-07T10:47:36.205Z",
+    "userId": "USE_1786099656192_dwight",
+    "employeeId": "EMP004",
+    "balances": {
+      "Casual Leave": {
+        "allowed": 12,
+        "used": 0
+      },
+      "Sick Leave": {
+        "allowed": 10,
+        "used": 0
+      },
+      "Paid Leave": {
+        "allowed": 15,
+        "used": 0
+      },
+      "Unpaid Leave": {
+        "allowed": 30,
+        "used": 0
+      }
+    }
   }
 ]

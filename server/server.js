@@ -14,8 +14,24 @@ const notificationsRouter = require('./routes/notifications');
 const app = express();
 const PORT = process.env.PORT || 5000;
 
-// Middleware
-app.use(cors());
+// CORS — allow GitHub Pages and local development
+const allowedOrigins = [
+  'https://venu0107.github.io',
+  'http://localhost:5173',
+  'http://localhost:4173',
+];
+
+app.use(cors({
+  origin: (origin, callback) => {
+    // Allow requests with no origin (e.g. mobile apps, curl, Render health checks)
+    if (!origin || allowedOrigins.includes(origin)) {
+      callback(null, true);
+    } else {
+      callback(new Error(`CORS policy: origin ${origin} not allowed`));
+    }
+  },
+  credentials: true,
+}));
 app.use(express.json());
 
 // Logger middleware

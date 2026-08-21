@@ -43,5 +43,35 @@
     "salary": 85000,
     "joiningDate": "2024-06-01",
     "status": "Active"
+  },
+  {
+    "id": "EMP_1786099656196_115",
+    "createdAt": "2026-08-07T10:47:36.196Z",
+    "updatedAt": "2026-08-07T10:47:36.196Z",
+    "userId": "USE_1786099656192_708",
+    "employeeId": "EMP696",
+    "name": "raju",
+    "email": "yeduvakavenkatavenugopal@gmail.com",
+    "phone": "9955886644",
+    "department": "IT",
+    "designation": "employee",
+    "salary": 10000,
+    "joiningDate": "2026-08-07",
+    "status": "Active"
+  },
+  {
+    "id": "EMP_1786099656200_dwight",
+    "createdAt": "2026-08-07T10:47:36.200Z",
+    "updatedAt": "2026-08-07T10:47:36.200Z",
+    "userId": "USE_1786099656192_dwight",
+    "employeeId": "EMP004",
+    "name": "Dwight Schrute",
+    "email": "dwight@company.com",
+    "phone": "+1 (555) 018-4928",
+    "department": "Sales",
+    "designation": "Assistant to the Regional Manager / Sales Representative",
+    "salary": 65000,
+    "joiningDate": "2024-07-01",
+    "status": "Active"
   }
 ]

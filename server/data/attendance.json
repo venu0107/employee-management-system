@@ -1,0 +1,16 @@
+[
+  {
+    "id": "ATT_1786093253995_223",
+    "createdAt": "2026-08-07T09:00:53.995Z",
+    "updatedAt": "2026-08-07T09:00:58.927Z",
+    "userId": "USE_1785662193873_546",
+    "employeeId": "EMP001",
+    "name": "Sarah Jenkins",
+    "date": "2026-08-07",
+    "checkIn": "2026-08-07T09:00:53.993Z",
+    "checkOut": "2026-08-07T09:00:58.921Z",
+    "workingHours": 0,
+    "overtime": 0,
+    "status": "Present"
+  }
+]

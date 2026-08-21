@@ -25,5 +25,23 @@
     "password": "$2a$10$PWapeh0AUefxzKMW.uqBnueKW7VjfdS0CYHF4mjCuddpnsSstxGC6",
     "role": "Employee",
     "name": "John Doe"
+  },
+  {
+    "id": "USE_1786099656192_dwight",
+    "createdAt": "2026-08-07T10:47:36.192Z",
+    "updatedAt": "2026-08-07T10:47:36.192Z",
+    "email": "dwight@company.com",
+    "password": "$2a$10$PWapeh0AUefxzKMW.uqBnueKW7VjfdS0CYHF4mjCuddpnsSstxGC6",
+    "role": "Employee",
+    "name": "Dwight Schrute"
+  },
+  {
+    "id": "USE_1786099656192_708",
+    "createdAt": "2026-08-07T10:47:36.192Z",
+    "updatedAt": "2026-08-07T10:47:36.192Z",
+    "email": "yeduvakavenkatavenugopal@gmail.com",
+    "password": "$2a$10$jWW5uwjAHAFQ00htSAsBL.C4nGVeFLFTavWKe60QRZU0kgoeuqvOC",
+    "role": "Employee",
+    "name": "raju"
   }
 ]

@@ -1,0 +1,11 @@
+[
+  {
+    "id": "NOT_1786099656206_460",
+    "createdAt": "2026-08-07T10:47:36.206Z",
+    "updatedAt": "2026-08-07T10:47:36.206Z",
+    "userId": "USE_1786099656192_708",
+    "title": "Welcome to the Company!",
+    "message": "Your employee profile has been created successfully. Default password is 'welcome123'. Please log in and change it in your settings.",
+    "read": false
+  }
+]

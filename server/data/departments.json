@@ -2,11 +2,11 @@
   {
     "id": "DEP_1785662193879_253",
     "createdAt": "2026-08-02T09:16:33.879Z",
-    "updatedAt": "2026-08-02T09:16:33.879Z",
+    "updatedAt": "2026-08-07T10:47:36.199Z",
     "name": "IT",
     "manager": "Sarah Jenkins",
     "budget": 150000,
-    "employeeCount": 1
+    "employeeCount": 2
   },
   {
     "id": "DEP_1785662193880_818",
@@ -24,6 +24,6 @@
     "name": "Sales",
     "manager": "Dwight Schrute",
     "budget": 120000,
-    "employeeCount": 0
+    "employeeCount": 1
   }
 ]
